@@ -1,0 +1,8 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using kiyotoshinoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 23 17:20:00.465321 2021] [mpm_event:notice] [pid 7671:tid 8671231488] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Nov 23 17:20:00.465889 2021] [core:notice] [pid 7671:tid 8671231488] AH00094: Command line: '/Users/kiyo/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/kiyo/Library/Application Support/Local/run/Nvbaf8pil/conf/apache/apache2.conf'
+[Fri Nov 26 15:37:06.622998 2021] [core:notice] [pid 7671:tid 8671231488] AH00052: child pid 7679 exit signal Illegal instruction (4)
+[Fri Nov 26 15:37:06.624210 2021] [mpm_event:notice] [pid 7671:tid 8671231488] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using kiyotoshinoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Nov 28 23:21:45.614863 2021] [mpm_event:notice] [pid 19219:tid 8661859840] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Nov 28 23:21:45.615504 2021] [core:notice] [pid 19219:tid 8661859840] AH00094: Command line: '/Users/kiyo/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/kiyo/Library/Application Support/Local/run/Nvbaf8pil/conf/apache/apache2.conf'

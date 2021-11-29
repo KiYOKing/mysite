@@ -1,0 +1,1641 @@
+# Translation of Themes - Airi in Japanese
+# This file is distributed under the same license as the Themes - Airi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-28 15:09:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Airi\n"
+
+#. Theme Name of the theme
+#: inc/theme-dashboard-settings.php:40
+#: inc/onboarding/class-airi-onboarding.php:218
+#: inc/onboarding/theme-info.php:144
+msgid "Airi"
+msgstr "Airi"
+
+#: inc/theme-dashboard-settings.php:215
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/theme-dashboard-settings.php:228
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: theme-dashboard/class-theme-dashboard.php:629
+msgid "Get Support"
+msgstr "サポートを受ける"
+
+#: theme-dashboard/class-theme-dashboard.php:360
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: inc/notices/class-airi-review.php:67
+msgid "I already did"
+msgstr "すでにしました"
+
+#: inc/notices/class-airi-review.php:65
+msgid "Maybe later"
+msgstr "後で確認"
+
+#: theme-dashboard/class-theme-dashboard.php:637
+msgid "Priority Support"
+msgstr "優先サポート"
+
+#: theme-dashboard/class-theme-dashboard.php:697
+msgid "Review"
+msgstr "レビュー"
+
+#: theme-dashboard/class-theme-dashboard.php:501
+msgid "Starter Sites"
+msgstr "スターターサイト"
+
+#: inc/notices/class-airi-review.php:63
+msgid "Sure"
+msgstr "もちろんです"
+
+#: inc/theme-dashboard-settings.php:238
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: theme-dashboard/class-theme-dashboard.php:656
+msgid "Community"
+msgstr "コミュニティ"
+
+#: inc/theme-dashboard-settings.php:200
+msgid "Color Options"
+msgstr "色設定"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:107
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:112
+msgid "Jetpack Portfolio"
+msgstr "Jetpack ポートフォリオ"
+
+#: comments.php:83 comments.php:85 comments.php:107 comments.php:109
+msgid "Message"
+msgstr "メッセージ"
+
+#: comments.php:81 comments.php:105
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:80 comments.php:104
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:74 comments.php:98
+msgid "Send message"
+msgstr "メッセージを送る"
+
+#: inc/customizer/options/section-header.php:604
+msgid "Button Url"
+msgstr "ボタン URL"
+
+#: inc/customizer/options/section-header.php:590
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: inc/customizer/options/section-header.php:576
+msgid "Block Top Right Content"
+msgstr "右上のコンテンツをブロックする"
+
+#: inc/customizer/options/section-header.php:563
+msgid "Block Top Left Content"
+msgstr "左上のコンテンツをブロックする"
+
+#: inc/customizer/options/section-header.php:535
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer/options/section-header.php:492
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/section-header.php:478
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/options/section-header.php:464
+msgid "Call Us"
+msgstr "連絡する"
+
+#: inc/customizer/options/section-header.php:462
+msgid "Custom Text"
+msgstr "カスタムテキスト"
+
+#: inc/customizer/options/section-blog.php:132
+msgid "Comment Form Layout"
+msgstr "コメントフォームレイアウト"
+
+#: inc/customizer/options/section-blog.php:126
+#: inc/customizer/options/section-blog.php:138
+msgid "Layout 3"
+msgstr "レイアウト 3"
+
+#: inc/customizer/options/section-blog.php:125
+#: inc/customizer/options/section-blog.php:137
+msgid "Layout 2"
+msgstr "レイアウト 2"
+
+#: inc/customizer/options/section-blog.php:120
+msgid "Content layout"
+msgstr "コンテンツレイアウト"
+
+#: inc/customizer/options/section-blog.php:29
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/onboarding/class-airi-onboarding.php:225
+msgid "or visit the welcome page"
+msgstr "or ウェルカムページにいく"
+
+#: inc/onboarding/class-airi-onboarding.php:220
+msgid "Hello, %s, and welcome to Airi"
+msgstr "こんにちは、%s さん。Airi へようこそ。"
+
+#: inc/onboarding/class-airi-onboarding.php:173
+#: inc/onboarding/class-airi-onboarding.php:176
+msgid "Get started with Airi"
+msgstr "Airi を始める"
+
+#: inc/onboarding/class-airi-onboarding.php:138
+msgid "Action failed. Please refresh the page and retry."
+msgstr "失敗しました。ページを更新して、再度実行してください。"
+
+#: inc/onboarding/class-airi-onboarding.php:37
+msgid "Processing..."
+msgstr "処理中"
+
+#: inc/theme-dashboard-settings.php:141 inc/onboarding/theme-info.php:244
+msgid "Priority support"
+msgstr "優先サポート"
+
+#: inc/theme-dashboard-settings.php:136 inc/onboarding/theme-info.php:239
+msgid "Extended WooCommerce options"
+msgstr "拡張 WooCommerce オプション"
+
+#: inc/theme-dashboard-settings.php:131 inc/onboarding/theme-info.php:234
+msgid "Extra blog layouts (list, masonry)"
+msgstr "エクストラブログレイアウト ( リスト、masonry )"
+
+#: inc/theme-dashboard-settings.php:126 inc/onboarding/theme-info.php:229
+msgid "Two extra menu types"
+msgstr "2つのエクストラメニュータイプ"
+
+#: inc/theme-dashboard-settings.php:121 inc/onboarding/theme-info.php:224
+msgid "Extra Elementor blocks (portfolio, shop categories, slider)"
+msgstr "エクストラ Elementor ブロック ( ポートフォリオ、ショップカテゴリー、スライダー )"
+
+#: inc/theme-dashboard-settings.php:116 inc/onboarding/theme-info.php:219
+msgid "Footer background image"
+msgstr "フッター背景画像"
+
+#: inc/theme-dashboard-settings.php:111 inc/onboarding/theme-info.php:214
+msgid "Footer Credits option"
+msgstr "フッタークレジットオプション"
+
+#: inc/theme-dashboard-settings.php:106 inc/onboarding/theme-info.php:209
+msgid "Growing collection of premium demos"
+msgstr "プレミアムデモのコレクションが拡大する"
+
+#: inc/theme-dashboard-settings.php:96 inc/onboarding/theme-info.php:200
+msgid "Background image support"
+msgstr "背景画像サポート"
+
+#: inc/theme-dashboard-settings.php:91 inc/onboarding/theme-info.php:195
+msgid "Widgetized footer"
+msgstr "ウィジェットフッター"
+
+#: inc/theme-dashboard-settings.php:86 inc/onboarding/theme-info.php:117
+#: inc/onboarding/theme-info.php:190
+msgid "Blog options"
+msgstr "ブログ設定"
+
+#: inc/theme-dashboard-settings.php:81 inc/onboarding/theme-info.php:115
+#: inc/onboarding/theme-info.php:185
+msgid "Color options"
+msgstr "色の設定"
+
+#: inc/theme-dashboard-settings.php:76 inc/onboarding/theme-info.php:180
+msgid "Translation ready"
+msgstr "翻訳対応"
+
+#: inc/theme-dashboard-settings.php:71 inc/onboarding/theme-info.php:175
+msgid "Custom Elementor blocks"
+msgstr "カスタム Elementor ブロック"
+
+#: inc/theme-dashboard-settings.php:66 inc/onboarding/theme-info.php:170
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/theme-dashboard-settings.php:61 inc/onboarding/theme-info.php:165
+msgid "Parallax backgrounds"
+msgstr "パララックス背景"
+
+#: inc/theme-dashboard-settings.php:51 inc/onboarding/theme-info.php:155
+msgid "Access to all Google Fonts"
+msgstr "すべての Google フォントにアクセスする"
+
+#: inc/theme-dashboard-settings.php:46 inc/onboarding/theme-info.php:150
+msgid "Elementor support"
+msgstr "Elementor サポート"
+
+#: inc/theme-dashboard-settings.php:41 inc/onboarding/theme-info.php:145
+msgid "Airi Pro"
+msgstr "Airi プロ"
+
+#: inc/theme-dashboard-settings.php:39 inc/onboarding/theme-info.php:143
+msgid "Feature"
+msgstr "おすすめ"
+
+#: inc/onboarding/theme-info.php:135
+msgid "See the Documentation"
+msgstr "ドキュメントを読む"
+
+#: inc/onboarding/theme-info.php:129
+msgid "Visit the forums"
+msgstr "公開フォーラムにいく"
+
+#: inc/onboarding/theme-info.php:128
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "困ったことがあれば、サポートフォーラムにいってみましょう。フォーラムでは、Airi テーマに関する質問にお答えします。"
+
+#: inc/onboarding/theme-info.php:127
+msgid "Visit our forums"
+msgstr "フォーラムにいく"
+
+#: inc/onboarding/class-airi-onboarding.php:224
+msgid "Import a demo site"
+msgstr "デモサイトをインポートする"
+
+#: theme-dashboard/class-theme-dashboard.php:724
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: inc/onboarding/theme-info.php:39
+#: theme-dashboard/class-theme-dashboard.php:613
+msgid "Support"
+msgstr "サポート"
+
+#: inc/theme-dashboard-settings.php:175
+msgid "Airi is now installed and ready to go. To help you with the next step, we've gathered together on this page all the resources you might need. We hope you enjoy using Airi."
+msgstr "Airi のインストールが完了しました。次のステップへいくための情報はすべてこのページにあります。Airi をぜひ活用してください。"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Airi Info"
+msgstr "Airi 情報"
+
+#: inc/customizer/options/section-header.php:29
+msgid "Basic 4 - inside header"
+msgstr "ベーシック 4 - ヘッダーの内側"
+
+#: inc/customizer/options/section-header.php:28
+msgid "Basic 3 - inside header"
+msgstr "ベーシック 3 - ヘッダーの内側"
+
+#: inc/onboarding/theme-info.php:134
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "ドキュメントでは、テーマの詳しい使い方、プリメイドコードスニペット、よくある質問とその回答を見ることができます。"
+
+#: inc/onboarding/class-airi-onboarding.php:142
+msgid "Cheatin&#8217; huh?"
+msgstr "間違えましたか ?"
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "%s さん、こんにちは。"
+
+#: inc/onboarding/theme-info.php:265
+msgid "See the changelog"
+msgstr "変更履歴を表示"
+
+#: inc/customizer/options/section-header.php:506
+msgid "Google +"
+msgstr "Google+"
+
+#: inc/onboarding/theme-info.php:133
+#: theme-dashboard/class-theme-dashboard.php:548
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "無料版とプロ版の違い"
+
+#: inc/onboarding/class-airi-onboarding.php:189
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:155
+msgid "Activating "
+msgstr "有効化中 "
+
+#: inc/onboarding/class-airi-onboarding.php:214
+msgid "Dismiss"
+msgstr "非表示"
+
+#: inc/customizer/options/section-blog.php:30
+msgid "Two Columns"
+msgstr "2列"
+
+#: comments.php:82 comments.php:106
+msgid "Website"
+msgstr "サイト"
+
+#: inc/theme-dashboard-settings.php:101 inc/onboarding/theme-info.php:204
+msgid "WooCommerce compatible"
+msgstr "WooCommerce 互換"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:88
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: inc/customizer/options/section-header.php:521
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "はじめてみよう"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:20
+msgid "Style 6"
+msgstr "スタイル6"
+
+#: comments.php:73 comments.php:97
+msgid "Leave A Comment"
+msgstr "コメントをどうぞ"
+
+#: inc/theme-dashboard-settings.php:56 inc/onboarding/theme-info.php:160
+msgid "Responsive"
+msgstr "レスポンシブデザイン"
+
+#: inc/onboarding/class-airi-onboarding.php:221
+msgid "Thank you for choosing our theme! Check out the links below to get started."
+msgstr "このテーマをお選びいただきありがとうございます。スタートするには以下のリンクをクリックしてください。"
+
+#: inc/customizer/upsell/class-customize.php:77
+#: inc/theme-dashboard-settings.php:284
+msgid "Get Airi Pro"
+msgstr "Airi プロを始める"
+
+#: inc/customizer/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "先へ進む準備はできてますか ?"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ必須プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "利用可能な更新があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です: %1$s。"
+
+#: inc/customizer/options/section-header.php:455
+msgid "Disable header search icon?"
+msgstr "ヘッダーのサーチアイコンをオフにしますか ?"
+
+#: inc/customizer/options/section-colors.php:1904
+msgid "Mobile toggle color"
+msgstr "モバイルトグルカラー"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "ページビルダー"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "全幅"
+
+#: widgets/class-airi-social.php:63
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: widgets/class-airi-social.php:61
+msgid "Select your social menu:"
+msgstr "ソーシャルメニューを選択 : "
+
+#: widgets/class-airi-social.php:12
+msgid "Airi: Social Profile"
+msgstr "Airi: ソーシャルプロフィール"
+
+#: widgets/class-airi-social.php:11
+msgid "Display your social profile"
+msgstr "ソーシャルプロフィールを表示する"
+
+#: widgets/class-airi-social.php:59
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "ウィジェットにソーシャルアイコンを表示するには、<strong>外観 > メニュー</strong>へいき、ソーシャルプロフィールのリンクを含んだメニューを作成し、メニューを指定してください。サポートしているソーシャルメディア :  Facebook、Twitter、Google プラス、Instagram、Dribble、Vimeo、Linkedin、Youtube、Flickr、Pinterest、Tumblr、Foursquare、Behance。"
+
+#: widgets/class-airi-recent-posts.php:142
+msgid "Display post date?"
+msgstr "投稿日を表示しますか ?"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s のインストールと有効化が完了しました。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:112
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: install stairis, 2: update stairis
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Stairis"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress リポジトリ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: inc/template-functions.php:303
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/template-functions.php:267
+msgid "Edit"
+msgstr "編集"
+
+#: inc/template-functions.php:260
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/customizer/options/section-typography.php:367
+msgid "Footer credits"
+msgstr "フッタークレジット"
+
+#: inc/customizer/options/section-typography.php:345
+msgid "Footer widgets text"
+msgstr "フッターウィジェットテキスト"
+
+#: inc/customizer/options/section-typography.php:323
+msgid "Footer widget titles"
+msgstr "フッターウィジェットタイトル"
+
+#: inc/customizer/options/section-typography.php:317
+msgid "Footer area"
+msgstr "フッターエリア"
+
+#: inc/customizer/options/section-typography.php:292
+msgid "Widgets text"
+msgstr "ウィジェットテキスト"
+
+#: inc/customizer/options/section-typography.php:116
+msgid "Header area"
+msgstr "ヘッダーエリア"
+
+#: inc/customizer/options/section-typography.php:71
+msgid "Font sizes"
+msgstr "フォントサイズ"
+
+#: inc/customizer/options/section-typography.php:27
+msgid "Headings"
+msgstr "見出し"
+
+#: inc/customizer/options/section-typography.php:10
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/options/section-header.php:427
+#: template-parts/menus/menu-menuStyle4.php:14
+msgid "9-18 Mon-Fri"
+msgstr "9-18 月曜 - 金曜"
+
+#: inc/customizer/options/section-header.php:413
+#: inc/customizer/options/section-header.php:425
+#: template-parts/menus/menu-menuStyle4.php:13
+msgid "Opening hours"
+msgstr "開店時間"
+
+#: inc/customizer/options/section-header.php:411
+msgid "Above opening hours"
+msgstr "上の開店時間"
+
+#: inc/customizer/options/section-header.php:385
+#: template-parts/menus/menu-menuStyle4.php:12
+msgid "Brooklyn Street"
+msgstr "ブルックリンストリート"
+
+#: inc/customizer/options/section-header.php:383
+msgid "Your address"
+msgstr "住所"
+
+#: inc/customizer/options/section-header.php:369
+msgid "Above address text"
+msgstr "上の住所"
+
+#: inc/customizer/options/section-header.php:329
+#: template-parts/menus/menu-menuStyle4.php:9
+msgid "Call us"
+msgstr "連絡する"
+
+#: inc/customizer/options/section-header.php:327
+msgid "Above phone number text"
+msgstr "上の電話番号"
+
+#: inc/customizer/options/section-header.php:260
+msgid "*Extended 2* menu options"
+msgstr "*拡張 2* メニュー設定"
+
+#: inc/customizer/options/section-header.php:243
+#: inc/customizer/options/section-header.php:341
+msgid "Phone number"
+msgstr "電話番号"
+
+#: inc/customizer/options/section-header.php:214
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: inc/customizer/options/section-header.php:191
+msgid "Social profile URL"
+msgstr "ソーシャルプロフィール URL"
+
+#: inc/customizer/options/section-header.php:163
+#: inc/customizer/options/section-header.php:186
+msgid "Social network"
+msgstr "ソーシャルネットワーク"
+
+#: inc/customizer/options/section-header.php:158
+msgid "Social links"
+msgstr "ソーシャルリンク"
+
+#: inc/customizer/options/section-header.php:108
+#: inc/customizer/options/section-header.php:301 inc/template-functions.php:109
+msgid "http://example.org/contact/"
+msgstr "http://example.org/contact/"
+
+#: inc/customizer/options/section-header.php:106
+#: inc/customizer/options/section-header.php:299
+msgid "Call to action URL"
+msgstr "アクション URL を呼ぶ"
+
+#: inc/customizer/options/section-header.php:94
+#: inc/customizer/options/section-header.php:287 inc/template-functions.php:108
+#: template-parts/menus/menu-menuStyle4.php:15
+msgid "Get a quote"
+msgstr "見積もりをする"
+
+#: inc/customizer/options/section-header.php:92
+#: inc/customizer/options/section-header.php:285
+msgid "Call to action text"
+msgstr "アクションテキストを呼ぶ"
+
+#: inc/customizer/options/section-header.php:67
+msgid "*Extended 1* menu options"
+msgstr "*拡張 1* メニュー設定"
+
+#: inc/customizer/options/section-header.php:58
+msgid "Static menu"
+msgstr "静的メニュー"
+
+#: inc/customizer/options/section-header.php:40
+msgid "Not contained"
+msgstr "含まれていません"
+
+#: inc/customizer/options/section-header.php:35
+msgid "Menu width"
+msgstr "メニュー幅"
+
+#: inc/customizer/options/section-header.php:27
+msgid "Basic 2 - outside header"
+msgstr "ベーシック 2 - ヘッダー外側"
+
+#: inc/customizer/options/section-header.php:26
+msgid "Basic 1 - inside header"
+msgstr "ベーシック 1 - ヘッダー内側"
+
+#: inc/customizer/options/section-header.php:22
+msgid "Menu type"
+msgstr "メニュータイプ"
+
+#: inc/customizer/options/section-header.php:15
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/customizer/options/section-footer.php:25
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/options/section-footer.php:24
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/section-footer.php:23
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/section-footer.php:22
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/options/section-footer.php:17
+msgid "Footer widget areas"
+msgstr "フッターウィジェットエリア"
+
+#: inc/customizer/options/section-footer.php:10
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/options/section-colors.php:2059
+msgid "Widget links"
+msgstr "ウィジェットリンク"
+
+#: inc/customizer/options/section-colors.php:2044
+msgid "Widget text"
+msgstr "ウィジェットテキスト"
+
+#: inc/customizer/options/section-colors.php:2029
+#: inc/customizer/options/section-typography.php:271
+msgid "Widget titles"
+msgstr "ウィジェットタイトル"
+
+#: inc/customizer/options/section-colors.php:2021
+msgid "Sidebar&amp;footer widgets"
+msgstr "サイドバー &amp; フッターウィジェット"
+
+#: inc/customizer/options/section-colors.php:1984
+msgid "Meta links"
+msgstr "メタリンク"
+
+#: inc/customizer/options/section-colors.php:1970
+msgid "Meta text"
+msgstr "メタテキスト"
+
+#: inc/customizer/options/section-colors.php:1942
+msgid "Post title (single)"
+msgstr "投稿名 ( シングル )"
+
+#: inc/customizer/options/section-colors.php:1889
+msgid "Submenu background"
+msgstr "サブメニュー背景"
+
+#: inc/customizer/options/section-colors.php:1875
+#: inc/customizer/options/section-typography.php:188
+msgid "Submenu items"
+msgstr "サブメニューアイテム"
+
+#: inc/customizer/options/section-colors.php:1092
+msgid "Contact blocks - bottom line"
+msgstr "コンタクトブロック - ボトムライン"
+
+#: inc/customizer/options/section-colors.php:1068
+msgid "Contact blocks - top line"
+msgstr "コンタクトブロック - トップライン"
+
+#: inc/customizer/options/section-colors.php:946
+msgid "Menu background color"
+msgstr "メニュー背景色"
+
+#: inc/customizer/options/section-colors.php:517
+msgid "Top bar background"
+msgstr "トップバー背景"
+
+#: inc/customizer/options/section-colors.php:142
+#: inc/customizer/options/section-colors.php:369
+#: inc/customizer/options/section-colors.php:756
+#: inc/customizer/options/section-colors.php:970
+#: inc/customizer/options/section-colors.php:1274
+#: inc/customizer/options/section-colors.php:1678
+#: inc/customizer/options/section-typography.php:166
+msgid "Top level menu items"
+msgstr "トップレベルメニューアイテム"
+
+#: inc/customizer/options/section-colors.php:48
+msgid "Different color options show up here, based on the type of menu you select from the Header > Menu section"
+msgstr "ヘッダー > メニューセクションで選択したメニューのタイプに合わせて、異なる色の設定がここに表示されます"
+
+#: inc/customizer/options/section-colors.php:46
+#: inc/customizer/options/section-header.php:10
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customizer/options/section-colors.php:22
+msgid "Primary color"
+msgstr "メインカラー"
+
+#: inc/customizer/options/section-colors.php:13
+msgid "Colors"
+msgstr "色"
+
+#: inc/customizer/options/section-blog.php:114
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customizer/options/section-blog.php:102
+msgid "Single posts"
+msgstr "個別投稿"
+
+#: inc/customizer/options/section-blog.php:109
+msgid "Single post layout"
+msgstr "個別投稿レイアウト"
+
+#: inc/customizer/options/section-blog.php:91
+msgid "Hide comments number?"
+msgstr "コメント数を隠しますか ?"
+
+#: inc/customizer/options/section-blog.php:83
+#: inc/customizer/options/section-blog.php:168
+msgid "Hide post author?"
+msgstr "投稿者を隠しますか ?"
+
+#: inc/customizer/options/section-blog.php:75
+#: inc/customizer/options/section-blog.php:160
+msgid "Hide post categories?"
+msgstr "投稿カテゴリーを隠しますか ?"
+
+#: inc/customizer/options/section-blog.php:67
+#: inc/customizer/options/section-blog.php:152
+msgid "Hide post date?"
+msgstr "投稿日を隠しますか ?"
+
+#: inc/customizer/options/section-blog.php:59
+#: inc/customizer/options/section-blog.php:144
+msgid "Hide post thumbnail?"
+msgstr "投稿サムネイルを隠しますか ?"
+
+#: inc/customizer/options/section-blog.php:50
+msgid "Leave empty to hide"
+msgstr "空欄を隠す"
+
+#: inc/customizer/options/section-blog.php:36
+msgid "Excerpt length"
+msgstr "概要の長さ"
+
+#: inc/customizer/options/section-blog.php:28
+msgid "Grid"
+msgstr "グリッド"
+
+#: inc/customizer/options/section-blog.php:27
+#: inc/customizer/options/section-blog.php:113
+#: inc/customizer/options/section-blog.php:124
+#: inc/customizer/options/section-blog.php:136
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/options/section-blog.php:23
+msgid "Blog layout"
+msgstr "ブログレイアウト"
+
+#: inc/customizer/options/section-blog.php:16
+msgid "Index&amp;archives"
+msgstr "インデックス &amp; アーカイブ"
+
+#: inc/customizer/kirki/include-kirki.php:60
+msgid "Activate Kirki Toolkit now"
+msgstr "Kirki ツールキットを今すぐ有効化する"
+
+#: inc/customizer/kirki/include-kirki.php:56
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+#: inc/customizer/kirki/include-kirki.php:55
+msgid "Install Kirki Toolkit now"
+msgstr "Kirki ツールキットを今すぐインストール"
+
+#: inc/customizer/customizer.php:17
+#: inc/customizer/options/section-typography.php:82
+msgid "General"
+msgstr "一般"
+
+#: inc/compatibility/learnpress.php:14
+msgid "Free"
+msgstr "無料"
+
+#: inc/compatibility/elementor/skins/class-airi-image-icon-box-skin.php:26
+msgid "General color"
+msgstr "一般的な色"
+
+#: inc/compatibility/elementor/skins/class-airi-image-icon-box-skin.php:19
+msgid "List style"
+msgstr "リストスタイル"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:105
+msgid "Marker"
+msgstr "マーカー"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:91
+msgid "Longitude"
+msgstr "経度"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:78
+msgid "Latitude"
+msgstr "緯度"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:68
+msgid "Please go here %s to get your Google Maps API Key."
+msgstr "%s で、Google Maps API キーを取得してください。"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:63
+msgid "API key"
+msgstr "API キー"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:55
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:68
+msgid "here"
+msgstr "こちら"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:55
+msgid "Please go here %s to find the latitude and longitute for your address."
+msgstr "%s にいき、あなたの住所の経度と緯度を確認してください。"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:33
+#: inc/customizer/options/section-header.php:371
+#: template-parts/menus/menu-menuStyle4.php:11
+msgid "Address"
+msgstr "住所"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:28
+msgid "London Eye, London, United Kingdom"
+msgstr "ロンドンアイ、ロンドン、イギリス"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:22
+msgid "Airi map"
+msgstr "Airi マップ"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:106
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:123
+msgid "Read more >>"
+msgstr "続きを読む >>"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:29
+msgid "Read more link"
+msgstr "続きを読むリンク"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:61
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:63
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:286
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:28
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:30
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:29
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:29
+#: inc/compatibility/elementor/blocks/block-blog.php:222
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:191
+#: inc/compatibility/elementor/blocks/block-blog.php:253
+#: inc/customizer/options/section-colors.php:209
+#: inc/customizer/options/section-colors.php:441
+#: inc/customizer/options/section-colors.php:828
+#: inc/customizer/options/section-colors.php:1016
+#: inc/customizer/options/section-colors.php:1350
+#: inc/customizer/options/section-colors.php:1753
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:166
+msgid "Date"
+msgstr "日付"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:39
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:72
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:41
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:41
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:74
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:40
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:40
+#: inc/compatibility/elementor/blocks/block-blog.php:139
+#: inc/compatibility/elementor/blocks/block-blog.php:175
+#: inc/compatibility/elementor/blocks/block-blog.php:234
+#: inc/compatibility/elementor/blocks/block-blog.php:298
+msgid "Color"
+msgstr "色"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:130
+msgid "Post Title"
+msgstr "投稿タイトル"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:107
+msgid "Number of posts"
+msgstr "投稿数"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:94
+msgid "Select your categories"
+msgstr "カテゴリーを選択"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:85
+#: inc/customizer/options/section-colors.php:1920
+#: inc/customizer/options/section-blog.php:12
+#: inc/customizer/options/section-typography.php:213
+msgid "Blog"
+msgstr "ブログ"
+
+#: functions.php:234
+msgid "Airi Elements"
+msgstr "Airi エレメント"
+
+#: functions.php:125
+msgid "Footer "
+msgstr "フッター"
+
+#: inc/customizer/options/section-typography.php:265 functions.php:112
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "メイン"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: 1: title.
+#: comments.php:34 inc/template-tags.php:193
+msgid "1 comment"
+msgstr "1件のコメント"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: widgets/class-airi-recent-posts.php:23
+msgid "Airi: Recent Posts"
+msgstr "Airi: 最近の投稿"
+
+#: widgets/class-airi-recent-posts.php:20
+msgid "Recent posts with thumbnails."
+msgstr "サムネイル付きの最近の投稿。"
+
+#: tribe/events/v2/widgets/widget-events-list.php:134
+#: tribe-events/widgets/list-widget.php:125
+msgid "There are no upcoming %s at this time."
+msgstr "今、最新の %s はありません。"
+
+#: tribe/events/v2/widgets/widget-events-list.php:123
+#: tribe-events/widgets/list-widget.php:114
+msgid "See this event"
+msgstr "このイベントを見る"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: inc/customizer/options/section-header.php:159
+msgid "Available for menu types Extended 1"
+msgstr "利用可能なメニュータイプ拡張 1"
+
+#: inc/customizer/options/section-blog.php:52
+#: theme-dashboard/class-theme-dashboard.php:393
+#: theme-dashboard/class-theme-dashboard.php:413
+#: theme-dashboard/class-theme-dashboard.php:433
+#: template-parts/content-list-2.php:11 template-parts/content-search.php:11
+#: template-parts/content.php:11
+msgid "Read more"
+msgstr "続きを読む"
+
+#: inc/customizer/options/section-blog.php:49
+msgid "Read more text"
+msgstr "続きを読む"
+
+#. translators: 1: comment count number
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s comments"
+msgid_plural "%1$s comments"
+msgstr[0] "コメント : %1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Stairis"
+msgstr "Stairis"
+
+#: inc/customizer/options/section-colors.php:1998
+msgid "Body text"
+msgstr "本文テキスト"
+
+#: inc/customizer/options/section-colors.php:1928
+msgid "Post title (archives)"
+msgstr "投稿タイトル (アーカイブ)"
+
+#: inc/customizer/options/section-colors.php:538
+msgid "Top bar color"
+msgstr "トップバー色"
+
+#: inc/customizer/options/section-colors.php:79
+#: inc/customizer/options/section-colors.php:306
+#: inc/customizer/options/section-colors.php:693
+#: inc/customizer/options/section-colors.php:1211
+#: inc/customizer/options/section-colors.php:1615
+msgid "Site title (sticky)"
+msgstr "サイトタイトル (先頭固定表示)"
+
+#: inc/customizer/options/section-colors.php:121
+#: inc/customizer/options/section-colors.php:348
+#: inc/customizer/options/section-colors.php:735
+#: inc/customizer/options/section-colors.php:1253
+#: inc/customizer/options/section-colors.php:1657
+msgid "Site description (sticky)"
+msgstr "サイト説明 (先頭固定表示)"
+
+#: inc/customizer/options/section-typography.php:18
+msgid "Font families"
+msgstr "フォントファミリー"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: inc/template-functions.php:301
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/template-functions.php:308
+msgid "Theme: %2$s by %1$s."
+msgstr "Theme: %2$s by %1$s."
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#: template-parts/menus/menu-menuStyle6.php:38
+#: template-parts/menus/menu-menuStyle3.php:60
+#: template-parts/menus/menu-menuStyle2.php:20
+#: template-parts/menus/menu-menuStyle5.php:20
+#: template-parts/menus/menu-menuStyle1.php:20
+#: template-parts/menus/menu-menuStyle4.php:30
+msgid "Toggle mobile menu"
+msgstr "モバイルメニューを切り替える"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single-2.php:66
+#: template-parts/content-single-3.php:66 template-parts/content-single.php:54
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
+
+#: inc/customizer/options/section-colors.php:163
+#: inc/customizer/options/section-colors.php:390
+#: inc/customizer/options/section-colors.php:777
+#: inc/customizer/options/section-colors.php:1299
+#: inc/customizer/options/section-colors.php:1703
+msgid "Top level menu items (sticky)"
+msgstr "トップレベルメニューアイテム (先頭固定表示)"
+
+#: inc/customizer/options/section-colors.php:233
+#: inc/customizer/options/section-colors.php:465
+#: inc/customizer/options/section-colors.php:852
+#: inc/customizer/options/section-colors.php:1374
+#: inc/customizer/options/section-colors.php:1777
+msgid "Background color (sticky)"
+msgstr "背景色 (先頭固定表示)"
+
+#: inc/customizer/options/section-typography.php:219
+msgid "Post titles (archives)"
+msgstr "投稿タイトル (アーカイブ)"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:40
+msgid "aThemes: Blog"
+msgstr "aThemes: ブログ"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:61
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: template-parts/content-single-2.php:77
+#: template-parts/content-single-3.php:77 template-parts/content-single.php:65
+#: template-parts/content-page.php:24
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールを完了しました。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr "ここにウィジェットを追加。"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: inc/customizer/options/section-header.php:39
+msgid "Contained"
+msgstr "含まれる"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:88 template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s インストール"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低必須バージョン:"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: widgets/class-airi-social.php:51
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "メニューはまだ作成されていません。<a href=\"%s\">作成する</a>。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: widgets/class-airi-recent-posts.php:138
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "パッケージ化済み"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインを有効化しました:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: widgets/class-airi-social.php:56 widgets/class-airi-recent-posts.php:135
+msgid "Title:"
+msgstr "タイトル:"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "未有効化 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストールできるプラグインはありません。"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s 有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s 更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: %s: post title
+#: inc/template-tags.php:71
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "コメントをどうぞ<span class=\"screen-reader-text\"> (%s)</span>"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:41
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/woocommerce.php:215
+msgid "View your shopping cart"
+msgstr "お買い物カゴを表示"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:50
+msgid "Note"
+msgstr "メモ"
+
+#: inc/customizer/options/section-typography.php:49
+#: inc/customizer/options/section-typography.php:88
+msgid "Body"
+msgstr "本文"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:20
+msgid "Style 5"
+msgstr "スタイル5"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:19
+msgid "Style 4"
+msgstr "スタイル4"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:20
+msgid "Style 3"
+msgstr "スタイル3"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:20
+msgid "Style 2"
+msgstr "スタイル2"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "ここには何も見つかりません。サイト内で検索してみてください。"
+
+#: inc/template-functions.php:251
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:121
+msgid "Content"
+msgstr "コンテンツ"
+
+#: learnpress/widgets/recent-courses/default.php:85
+msgid "%d lesson"
+msgstr "%dレッスン"
+
+#: learnpress/widgets/recent-courses/default.php:85
+msgid "%d lessons"
+msgstr "%dレッスン"
+
+#: inc/customizer/kirki/include-kirki.php:54
+msgid "A plugin is required to take advantage of this theme's features in the customizer."
+msgstr "カスタマイザーでこのテーマの機能を利用するにはプラグインが必要です。"
+
+#: inc/customizer/kirki/include-kirki.php:61
+msgid "Activate Now"
+msgstr "今すぐ有効化"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+
+#: learnpress/widgets/recent-courses/default.php:24
+msgid "No courses"
+msgstr "講座なし"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール、更新、有効化するプラグインはありません。"
+
+#: inc/customizer/options/section-colors.php:100
+#: inc/customizer/options/section-colors.php:327
+#: inc/customizer/options/section-colors.php:714
+#: inc/customizer/options/section-colors.php:925
+#: inc/customizer/options/section-colors.php:1232
+#: inc/customizer/options/section-colors.php:1636
+#: inc/customizer/options/section-typography.php:144
+msgid "Site description"
+msgstr "サイト説明文"
+
+#: inc/customizer/options/section-colors.php:58
+#: inc/customizer/options/section-colors.php:285
+#: inc/customizer/options/section-colors.php:672
+#: inc/customizer/options/section-colors.php:904
+#: inc/customizer/options/section-colors.php:1190
+#: inc/customizer/options/section-colors.php:1594
+#: inc/customizer/options/section-typography.php:122
+msgid "Site title"
+msgstr "サイトタイトル"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール、更新、有効化可能な必須または推奨プラグインがあります。"
+
+#: inc/customizer/kirki/include-kirki.php:59
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Kirki をインストールしました。有効化して、カスタマイザーでテーマの機能を活用しましょう。"
+
+#: inc/customizer/options/section-typography.php:240
+msgid "Post titles (singles)"
+msgstr "投稿名 (個別)"
+
+#. translators: 1: comment count number, 2: title.
+#: inc/template-tags.php:197
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s件のコメント"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/airi"
+msgstr "https://athemes.com/theme/airi"
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+#: theme-dashboard/class-theme-dashboard.php:540
+msgid "aThemes"
+msgstr "aThemes"
